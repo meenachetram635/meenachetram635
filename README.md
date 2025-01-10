@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chetram Meena</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/meenachetram635/meenachetram635/assets/133211169/fc33c8aa-8496-40b6-81e9-1a7ad00f3528"
 
-
-- 🌱 I’m currently learning **CSS, HTML, JS**
-
-- 📫 How to reach me **meenachetram635@gmail.com**
+- 📫 How to reach me **chetrammeena.iitdelhi@gmail.com**
 
 - ⚡ Fun fact **Am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/c_ram_1699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c_ram_1699" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/chetram-meena-a03363226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="c_ram_1699" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
